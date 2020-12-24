@@ -1,0 +1,23 @@
+########
+# npm
+########
+
+node_modules/
+
+########
+# JSON
+########
+
+.eslintrc.json
+package-lock.json
+
+#########
+# Other
+#########
+
+*.log
+.idea
+haters/
+variables.env
+variables.env.now
+variables.env.old.txt
