@@ -15,6 +15,8 @@ package-lock.json
 # Other
 #########
 
+.vercel
+.vs
 *.log
 .idea
 haters/
