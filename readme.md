@@ -1,6 +1,10 @@
+## Dang That's Delicious App - Learn Node Course by Wes Bos
+
 ## What is this?
 
-Just you wait folks!
+Create a restaurant/store, visit another one, and add a user review!
+
+![Store Sample](https://github.com/stmapman7/dang-thats-delicious-byee/blob/master/Store-image.JPG)
 
 ## Sample Data
 
