@@ -2,8 +2,6 @@
 
 - Travis CI: [![Build Status](https://travis-ci.com/stmapman7/dang-thats-delicious.svg?branch=master)](https://travis-ci.com/stmapman7/dang-thats-delicious)
 
-- Coveralls: [![Coverage Status](https://coveralls.io/repos/github/stmapman7/dang-thats-delicious/badge.svg?branch=master)](https://coveralls.io/github/stmapman7/dang-thats-delicious?branch=master)
-
 ## What is this?
 
 Create a restaurant/store, visit another one, and add a user review!
