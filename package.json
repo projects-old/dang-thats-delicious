@@ -67,6 +67,9 @@
     "sass-loader": "6.0.3",
     "webpack": "2.2.1"
   },
+  "dependeciesComments": {
+    "now": "Now has been deprecated and replaced by Vercel and no longer supports Node.js applications. Will remove this in a future release." 
+  },
   "description": "Just you wait folks!",
   "main": "app.js",
   "keywords": [
