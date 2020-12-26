@@ -15,11 +15,12 @@ package-lock.json
 # Other
 #########
 
-.vercel
-.vs
+.coveralls.yml
 *.log
 .idea
 haters/
+.vercel
+.vs
 variables.env
 variables.env.now
 variables.env.old.txt
