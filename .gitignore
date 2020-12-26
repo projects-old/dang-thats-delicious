@@ -15,7 +15,6 @@ package-lock.json
 # Other
 #########
 
-.coveralls.yml
 *.log
 .idea
 haters/
