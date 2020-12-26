@@ -1,8 +1,6 @@
 ## Dang That's Delicious App - Learn Node Course by Wes Bos
 
-[![Build Status](https://travis-ci.com/stmapman7/dang-thats-delicious.svg?branch=master)](https://travis-ci.com/stmapman7/dang-thats-delicious)
-
-[![Coverage Status](https://coveralls.io/repos/github/stmapman7/dang-thats-delicious/badge.svg?branch=master)](https://coveralls.io/github/stmapman7/dang-thats-delicious?branch=master)
+- Travis CI: [![Build Status](https://travis-ci.com/stmapman7/dang-thats-delicious.svg?branch=master)](https://travis-ci.com/stmapman7/dang-thats-delicious)
 
 ## What is this?
 
