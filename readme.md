@@ -6,7 +6,7 @@
 
 Create a restaurant/store, visit another one, and add a user review!
 
-![Store Sample](https://github.com/stmapman7/dang-thats-delicious-byee/blob/master/Store-image.JPG)
+![Store Sample](https://github.com/stmapman7/dang-thats-delicious/blob/master/public/images/photos/Store-image.jpg)
 
 ## Sample Data
 
