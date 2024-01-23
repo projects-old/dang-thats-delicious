@@ -1,7 +1,5 @@
 ## Dang That's Delicious App - Learn Node Course by Wes Bos
 
-- Travis CI: [![Build Status](https://travis-ci.com/stmapman7/dang-thats-delicious.svg?branch=master)](https://travis-ci.com/stmapman7/dang-thats-delicious)
-
 ## What is this?
 
 Create a restaurant/store, visit another one, and add a user review!
